@@ -1,0 +1,17 @@
+[
+    {
+        "id": "id-1",
+        "text": "Good",
+        "amount": 0
+    },
+    {
+        "id": "id-2",
+        "text": "Neutral",
+        "amount": 0
+    },
+    {
+        "id": "id-3",
+        "text": "Bad",
+        "amount": 0
+    }
+]
