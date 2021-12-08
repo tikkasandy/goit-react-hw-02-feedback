@@ -11,7 +11,7 @@ class Statistics extends Component {
 
   render() {
     const { options, total, positivePercentage } = this.props;
-    console.log(this.props);
+
     return (
       <div>
         <ul className={s.Votes}>
